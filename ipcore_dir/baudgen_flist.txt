@@ -1,0 +1,4 @@
+# Output products list for <baudgen>
+baudgen_flist.txt
+baudgen_readme.txt
+baudgen_xmdf.tcl
